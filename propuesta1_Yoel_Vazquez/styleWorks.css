@@ -1,0 +1,19 @@
+.works{
+    color: cadetblue;
+}
+
+.bloque{
+    display: flex;
+    flex-direction: row;
+    margin: 5vw 0 5vw 5vw;
+}
+
+.video{
+    flex-direction: column;
+}
+
+p{
+    margin: 0 3vw 0 3vw;
+    margin-top: auto;
+    font-size: small;
+}

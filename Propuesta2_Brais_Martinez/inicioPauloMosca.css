@@ -1,0 +1,103 @@
+body{
+    background-color:whitesmoke;
+    margin-left: -10px;
+}
+
+h1{
+    font-family: "Staatliches", sans-serif;
+    font-size: 55px;
+    color: black;
+    padding-left: 50px;
+    margin-top: 40px;
+    line-height: 1%;
+}
+
+h2{
+    font-family: "Staatliches", sans-serif;
+    font-size: 45px;
+    color: black;
+    padding-left: 50px;
+    margin-top: 30px; 
+}
+.gafas{
+    margin-top: 0px;
+    background-color: rgb(255, 255, 90);
+    width: 750px;
+    height: 750px;
+    border-style: solid;
+    border-width: 0.5px;
+    margin-left: 50px;
+}
+
+p{
+    font-family: "Staatliches", sans-serif;
+    font-size: 27px;
+    padding-left: 50px;
+    line-height: 130%;
+}
+.box1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.texto1{
+    display: flex;
+    flex-direction: column;
+    margin-top: -13px;
+    margin-left: -20px;
+}
+
+.trimono{
+    font-family: "Staatliches", sans-serif;
+    margin-left: -238px;
+    margin-top: 275px;
+    margin-right: 50px;
+}
+
+.box2{
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+h3{
+    font-family: "Staatliches", sans-serif;
+    font-size: 45px;
+    margin-left: 50px;
+    margin-top: 205px;
+    margin-right: 50px;
+}
+
+.texto3{
+    display: flex;
+    flex-direction: column;
+}
+h4{
+    font-family: "Staatliches", sans-serif;
+    font-size: 25px;
+
+}
+
+.box3{
+    display: flex;
+    flex-direction: column;
+
+}
+.texto3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+img{
+    width: 40px;
+    height: 40px;
+}
+
+.redes{
+    margin-top: -25px;
+    display: flex;
+    flex-direction: row;
+    align-self: center;
+}
